@@ -149,6 +149,5 @@ This was an early applied Python analytics project. A stronger next version woul
 * add a concise executive summary with prioritised recommendations
 
 ## Author
-Muhammad Ahmed
 **Muhammad Ahmed**
 [LinkedIn](https://www.linkedin.com/in/muhammad-ahmed-iba/) | [GitHub](https://github.com/AhmedHMCEU)
